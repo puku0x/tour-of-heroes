@@ -26,7 +26,7 @@ before_install:
 script:
   - ng test --single-run
   - ng e2e
-  - ng build --prod
+  - ng build --prod --base-href="https://puku0x.github.io/tour-of-heroes/"
 
 deploy:
   provider: pages
