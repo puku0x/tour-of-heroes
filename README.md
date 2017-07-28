@@ -1,6 +1,10 @@
+[![Build Status][travis-ci-image]][travis-ci-url]
+[![Dependency status][david-dm-image]][david-dm-url]
+[![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+
 # Angular Tour of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Development server
 
@@ -26,3 +30,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+[travis-ci-url]: http://travis-ci.org/puku0x/tour-of-heroes
+[travis-ci-image]: https://travis-ci.org/puku0x/tour-of-heroes.svg?branch=master
+[david-dm-url]:https://david-dm.org/puku0x/tour-of-heroes
+[david-dm-image]:https://david-dm.org/puku0x/tour-of-heroes.svg
+[david-dm-dev-url]:https://david-dm.org/puku0x/tour-of-heroes?type=dev
+[david-dm-dev-image]:https://david-dm.org/puku0x/tour-of-heroes/dev-status.svg
